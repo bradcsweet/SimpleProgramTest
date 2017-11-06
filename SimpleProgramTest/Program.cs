@@ -10,6 +10,7 @@ namespace SimpleProgramTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("PLease add code in addition to this and not change it! hint hint");
         }
     }
 }
